@@ -1,0 +1,22 @@
+ENVT0100,LM:2026/11/23 07:16:50:453,DS:0000000407,CS:26641,MA:0C-9D-92-11-3E-60,EI:           
+sVersion="1.0.0"
+nDisplayMode=4
+nNumberOfPoints=1
+Point1 {
+	nNumber=0
+	sLabel="CalibrationT"
+	sDescription="Perfect alignment with toothpick"
+	rX=261.764
+	rY=278.016
+	rZ=240.736
+	rU=45.145
+	rV=0.026
+	rW=-180
+	nLocal=0
+	nHand=1
+	nElbow=1
+	nWrist=1
+	nJ4Flag=0
+	nJ6Flag=0
+	bSimVisible=False
+}
